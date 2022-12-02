@@ -1,0 +1,269 @@
+[   {
+    "name" : "Wwe 2k19",
+    "price" : "1200",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "ratings" : 4.1,
+    "images" : [{
+        "public_id" : "products/images_t2afnb",
+        "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669908653/products/game2k19_efkei9.jpg"
+    }],
+    "category" : "Gaming",
+    "seller" : "Amazon",
+    "Stock" : 1123,
+    "numOfReviews" : 6,
+    "reviews": []
+},
+{
+    "name" : "assassin's creed odyssey",
+    "price" : "1000",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "ratings" : 4.1,
+    "images" : [{
+        "public_id" : "products/images_t2afnb",
+        "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669908651/products/game_odyssy_xzbrfq.jpg"
+    }],
+    "category" : "Gaming",
+    "seller" : "Amazon",
+    "Stock" : 2000,
+    "numOfReviews" : 6,
+    "reviews": []
+},
+{
+    "name" : "Witcher 3 Wild Hunt",
+    "price" : "4000",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "ratings" : 4.1,
+    "images" : [{
+        "public_id" : "products/images_t2afnb",
+        "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669908647/products/gameWticher_q32xwx.jpg"
+    }],
+    "category" : "Gaming",
+    "seller" : "Amazon",
+    "Stock" : 3000,
+    "numOfReviews" : 6,
+    "reviews": []
+},
+{
+    "name" : "God of war ragnorak",
+    "price" : "5000",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "ratings" : 4.1,
+    "images" : [{
+        "public_id" : "products/images_t2afnb",
+        "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669908647/products/gameGodofwar_ikbcf2.jpg"
+    }],
+    "category" : "Gaming",
+    "seller" : "Amazon",
+    "Stock" : 4000,
+    "numOfReviews" : 6,
+    "reviews": []
+},
+{
+    "name" : "Nintendo Switch",
+    "price" : "10000",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+    "ratings" : 4.1,
+    "images" : [{
+        "public_id" : "products/images_t2afnb",
+        "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669912834/products/1549526400_635_nintendo_switch_db_ibqpu3.jpg"
+    }],
+    "category" : "Gaming",
+    "seller" : "Amazon",
+    "Stock" : 1000,
+    "numOfReviews" : 6,
+    "reviews": []
+},
+    {
+        "name" : "Aula LB-01R Wired Gaming Headset  (Black, Red, On the Ear)",
+        "price" : "400",
+        "description" : "Headphones are a pair of padded speakers which you wear over your ears in order to listen to a radio or recorded music, or for using a phone without other people hearing it.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669629110/products/headphones_krly4l.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Sethu",
+        "Stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    }, {
+        "name" : "I phone 11 64gb",
+        "price" : "100000",
+        "description" : "Headphones are a pair of padded speakers which you wear over your ears in order to listen to a radio or recorded music, or for using a phone without other people hearing it.",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669911198/products/iphone-card-40-iphone14pro-202209_FMT_WHH_kqzy1f.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Sethu",
+        "Stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Microsoft Xbox Series X/S Wireless Controller Carbon Black        ",
+        "price" : "3500",
+        "description" : "Design your own next-gen Xbox Wireless Controller in the Xbox Design Lab. Choose from a combination of colors, patterns, textured triggers, ...        ",
+        "ratings" : 1.65,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669629109/products/joystick_w0t9ys.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "Stock" : 0,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "Pedigree Dry Food for Adult Dogs ",
+        "price" : "400 ",
+        "description" : "Formulated by research done by the Waltham Centre for pet nutrition, Pedigree is proven to provide a shinier coat to dogs and other signs of good health.",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669629111/products/pedigree_vnutx8.jpg"
+        }],
+        "category" : "Food",
+        "seller" : "Amazon",
+        "Stock" : 1,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "Sony PlayStation 4 Standard 500GB Jet Black ",
+        "price" : "35000 ",
+        "description" : "The Best Place to PlayThe PlayStation 4 is the best place to play with dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favourite digital entertainment apps, and PlayStation exclusives, the PS4 centres on gamers, enabling them to play when, where and how they want. The PS4 enables the greatest game developers in the world to unlock their creativity and push the boundaries of play through a system that is tuned specifically to their needs",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669629109/products/png_wwtikz.jpg"
+           
+        },{ 
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669734780/products/ps4_gvaasi.png"}],
+
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "Stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "Mi 108 cm (43 inches) Full HD Android LED TV 4C",
+        "price" : "25000 ",
+        "description" : "Resolution : Full HD (1920x1080) | Refresh Rate : 60 Hertz | 178 Degree wide viewing angleConnectivity: 3 HDMI ports to connect set top box, Blu-Ray players, gaming console | 3 USB ports to connect hard drives and other USB devices | 3.5mm to connect your headphones | S/PDIF port to connect Speakers",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669629111/products/led_y6xwk3.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "Stock" : 122,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "REDWOLF HOODIE",
+        "price" : "2030",
+        "description" : "The artwork will be screen printed to perfection on our 100% brushed cotton Redwolf branded hoodie featuring drawstrings and a hood.        ",
+        "ratings" : 4.1,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669629109/products/hoodie_n3ixo2.jpg"
+        }],
+        "category" : "cloth",
+        "seller" : "Amazon",
+        "Stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "Men Black shirt",
+        "price" : "800",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "ratings" : 4.1,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669909842/products/black-1_dff11a50-ba52-4e91-a5ba-c93bc720e252_fteh4u.jpg"
+        }],
+        "category" : "cloth",
+        "seller" : "Amazon",
+        "Stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : " Tshirt printed ",
+        "price" : "2230",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669907290/products/d88tgaezzjrm3t4erdw0.jpg"
+        }],
+        "category" : "cloth",
+        "seller" : "Amazon",
+        "Stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : " Tshirt Black and White ",
+        "price" : "496",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669911297/products/DSC_0622_jda6wh.jpg"
+        }],
+        "category" : "cloth",
+        "seller" : "Amazon",
+        "Stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "Men Denim Shirt ",
+        "price" : "949",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/images_t2afnb",
+            "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669907229/products/n2yozjoesaot5qf45g3a.jpg"
+        }],
+        "category" : "cloth",
+        "seller" : "Amazon",
+        "Stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Rice 10kg",
+        "price" : "3000",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/images_t2afnb",
+                "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669909068/products/rice2_pw1i7s.webp"
+            },
+           
+            {
+                "public_id" : "products/images_t2afnb",
+                "url" : "https://res.cloudinary.com/dgnygjran/image/upload/v1669909067/products/rice_bqxpuh.webp"
+            }
+    ],
+        "category" : "Food",
+        "seller" : "amazon",
+        "Stock" : 500,
+        "numOfReviews" : 1,
+        "reviews": []
+    }
+
+ 
+    
+]
