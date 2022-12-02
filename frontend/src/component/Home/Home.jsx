@@ -31,6 +31,7 @@ const Home = () => {
   let [product ,setproduct] = useState()
   let [electCats ,setelectCats] = useState()
   let [clothCats ,setclothCats] = useState()
+  let [gamingCats ,setgamingCats] = useState()
 
 
   const dispatch = useDispatch();
@@ -39,6 +40,8 @@ const Home = () => {
   );
   const Electronics = []
   const Cloths = []
+  const Gaming = []
+
 
 
 let getProducts = (async()=>{
@@ -54,6 +57,7 @@ useEffect(()=>{
    useEffect(() => {
     setelectCats(Electronics)
     setclothCats(Cloths)
+    setgamingCats(Gaming)
     product && product.forEach((item)=>{
       if(item.category === 'Electronics'){
         Electronics.push(item)
@@ -62,6 +66,11 @@ useEffect(()=>{
     product && product.forEach((item)=>{
       if(item.category === 'cloth'){
         Cloths.push(item)
+       }
+    })
+    product && product.forEach((item)=>{
+      if(item.category === 'Gaming'){
+        Gaming.push(item)
        }
     })
     }, [product])
@@ -164,7 +173,7 @@ useEffect(()=>{
 
 <Slider {...settings}>
 
-{electCats &&  electCats.length>4 && electCats.map((item)=>(
+{gamingCats &&  gamingCats.length>4 && gamingCats.map((item)=>(
  <ProductCard key={item._id} product={item} />
  ))}
 </Slider>
